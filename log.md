@@ -1,30 +1,11 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log from Phillip Nunes
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+#### From the movie: Javascript, React and Everything - Coming soon to Theaters.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: August 22, 2018
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I decided that i need to learn React and improve my Javascript - ES6/ES7...ES9000+. I'll start by creating a Hacker News clone using their API.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Create React App seems to make work easier, but maybe this has a price (I still don't know). With some sort of "magic" and commands I made some progress, but i need to spend less time thinking about what to do and just do...JUST DO IT!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [First commit](https://github.com/phillipnunes/hacker-news/commit/d30181e14bb4953460a4bb00394dcb1dca272bbb)
