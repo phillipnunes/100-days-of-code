@@ -17,3 +17,11 @@
 **Thoughts:** I found it a bit difficult to hit the amount of parentheses in the react, but I managed to end up with a very tight syntax in the loop.
 
 **Link to work:** [Repository](https://github.com/phillipnunes/hacker-news/)
+
+### Day 3: August 24, 2018
+
+**Today's Progress**: I tried to use fetch API, but afterward I finished with axios. I was able to pass some simple data between two components.
+
+**Thoughts:** I started using the fetch API, but for simplicity in error management, I chose [axios](https://github.com/axios/axios) .
+
+**Link to work:** [Repository](https://github.com/phillipnunes/hacker-news/)
