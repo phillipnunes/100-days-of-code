@@ -25,3 +25,11 @@
 **Thoughts:** I started using the fetch API, but for simplicity in error management, I chose [axios](https://github.com/axios/axios) .
 
 **Link to work:** [Repository](https://github.com/phillipnunes/hacker-news/)
+
+### Day 4: August 25, 2018
+
+**Today's Progress**: I finished the necessary requests to show data in component, and I formated the url size.
+
+**Thoughts:** I still do not know the best way to make two concurrent requests. Did I do it right?
+
+**Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/a494e98b5b68b74e35b042d5ac2a0b1052428a75)
