@@ -33,3 +33,11 @@
 **Thoughts:** I still do not know the best way to make two concurrent requests. Did I do it right?
 
 **Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/a494e98b5b68b74e35b042d5ac2a0b1052428a75)
+
+### Day 5: August 26, 2018
+
+**Today's Progress**: I learned a bit about async/await and promises, and some problems you have when working with asynchronous things.
+
+**Thoughts:** I need to stop trying to refactor things to early, without knowing exactly where and how i will refactor. Before I do, I need to understand what I'm doing and why I'm doing it.
+
+**Link to work:** [Repository](https://github.com/phillipnunes/hacker-news/)
