@@ -41,3 +41,11 @@
 **Thoughts:** I need to stop trying to refactor things to early, without knowing exactly where and how i will refactor. Before I do, I need to understand what I'm doing and why I'm doing it.
 
 **Link to work:** [Repository](https://github.com/phillipnunes/hacker-news/)
+
+### Day 6: August 27, 2018
+
+**Today's Progress**: I Learned how to use components Link, Route and BrowserRouter from React Router, and I refactored links to use route component.
+
+**Thoughts:** I had some progress with React Router, but I have a lot to learn about this tool.
+
+**Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/df3d5648c5186567c5765e2bc080e5bac6e392a9)
