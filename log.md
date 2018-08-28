@@ -49,3 +49,13 @@
 **Thoughts:** I had some progress with React Router, but I have a lot to learn about this tool.
 
 **Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/df3d5648c5186567c5765e2bc080e5bac6e392a9)
+
+### Day 7: August 28, 2018
+
+**Today's Progress**: I created the logic of pagination and added a component called react-paginate. The pagination is almost complete, just need some css and check for some side effects in my code.
+
+**Thoughts:** I thought it would take longer in pagination, but my performance was better than I imagined :)
+
+**Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/d746a0b41fb92a7156c1184f4855fd66d71e175e)
+
+
