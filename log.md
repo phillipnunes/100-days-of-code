@@ -58,4 +58,9 @@
 
 **Link to work:** [Commit](https://github.com/phillipnunes/hacker-news/commit/d746a0b41fb92a7156c1184f4855fd66d71e175e)
 
+### Day 8: August 29, 2018
+
+**Today's Progress**: Today I stylized the paginate component. I am still trying to find the best way to write the ajax code, since it sometimes return out of order.
+
+**Thoughts:** Sometimes Javascript is a bit messy if I do not take care.
 
