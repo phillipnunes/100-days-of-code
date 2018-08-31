@@ -70,3 +70,11 @@
 
 **Thoughts:** I finished this project, but it needs a bit of more work to get perfect.
 
+### Day 10: August 31, 2018
+
+**Today's Progress**: I decided to start a new project related with cryptocurrencies. This time I was able to do the basics without googling.
+
+**Thoughts:** Finally a project that interests me :)
+
+**Link to work:** [Repository](https://github.com/phillipnunes/crypto-tracker)
+
