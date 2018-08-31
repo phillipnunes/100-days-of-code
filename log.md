@@ -64,3 +64,9 @@
 
 **Thoughts:** Sometimes Javascript is a bit messy if I do not take care.
 
+### Day 9: August 30, 2018
+
+**Today's Progress**: I learned a bit more about React Router and how comunicate from child to parent component.
+
+**Thoughts:** I finished this project, but it needs a bit of more work to get perfect.
+
