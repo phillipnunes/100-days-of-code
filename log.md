@@ -78,3 +78,10 @@
 
 **Link to work:** [Repository](https://github.com/phillipnunes/crypto-tracker)
 
+### Day 11: September 1, 2018
+
+**Today's Progress**: I just made the first challenge from [JavaScript 30](https://javascript30.com/) .
+
+**Thoughts:** Just brushing JavaScript.
+
+**Link to work:** [Repository](https://github.com/phillipnunes/javascript30)
