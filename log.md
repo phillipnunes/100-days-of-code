@@ -80,8 +80,14 @@
 
 ### Day 11: September 1, 2018
 
-**Today's Progress**: I just made the first challenge from [JavaScript 30](https://javascript30.com/) .
+**Today's Progress**: I just made the first challenge from [JavaScript 30](https://javascript30.com/).
 
 **Thoughts:** Just brushing JavaScript.
 
 **Link to work:** [Repository](https://github.com/phillipnunes/javascript30)
+
+### Day 12: September 2, 2018
+
+**Today's Progress**: Second challenge completed [JavaScript 30](https://javascript30.com/).
+
+**Thoughts:** Now I know what time is it.
