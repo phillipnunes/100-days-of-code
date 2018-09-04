@@ -91,3 +91,9 @@
 **Today's Progress**: Second challenge completed [JavaScript 30](https://javascript30.com/).
 
 **Thoughts:** Now I know what time is it.
+
+### Day 13: September 4, 2018
+
+**Today's Progress**: Today I learned how inline styles work in React. I am trying to use Semantic UI, but maybe it is adding unnecessary complexity to this project.
+
+**Thoughts:** Yesterday I did not code, let's get back to the flow.
