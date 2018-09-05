@@ -97,3 +97,9 @@
 **Today's Progress**: Today I learned how inline styles work in React. I am trying to use Semantic UI, but maybe it is adding unnecessary complexity to this project.
 
 **Thoughts:** Yesterday I did not code, let's get back to the flow.
+
+### Day 14: September 5, 2018
+
+**Today's Progress**: Today I learned how manipulate css variables with JavaScript.
+
+**Thoughts:** I am happy, because i learned about input type color, where you get a colorpicker without stress.
