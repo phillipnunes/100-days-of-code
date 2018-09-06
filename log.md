@@ -103,3 +103,9 @@
 **Today's Progress**: Today I learned how manipulate css variables with JavaScript.
 
 **Thoughts:** I am happy, because i learned about input type color, where you get a colorpicker without stress.
+
+### Day 15: September 6, 2018
+
+**Today's Progress**: I get stuck with Cross Origin, but after solve the problem I learned about the problems with too much nested props in React. Making progress.  :)
+
+**Thoughts:** I am not even having thoughts...too much problems today with the code.
