@@ -109,3 +109,9 @@
 **Today's Progress**: I get stuck with Cross Origin, but after solve the problem I learned about the problems with too much nested props in React. Making progress.  :)
 
 **Thoughts:** I am not even having thoughts...too much problems today with the code.
+
+### Day 16: September 7, 2018
+
+**Today's Progress**: Today I played a bit with filter, map, reduce and sort.
+
+**Thoughts:** These features are pretty useful.
