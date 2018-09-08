@@ -115,3 +115,9 @@
 **Today's Progress**: Today I played a bit with filter, map, reduce and sort.
 
 **Thoughts:** These features are pretty useful.
+
+### Day 17: September 8, 2018
+
+**Today's Progress**: More training using ES6 features. Reduce method could very flexible.
+
+**Thoughts:** This is getting easier as I go training.
