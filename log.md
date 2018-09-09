@@ -121,3 +121,9 @@
 **Today's Progress**: More training using ES6 features. Reduce method could very flexible.
 
 **Thoughts:** This is getting easier as I go training.
+
+### Day 18: September 9, 2018
+
+**Today's Progress**: Completed another challenge from JS30. This time I played a bit more with flexbox using JS
+
+**Thoughts:** These shorthands from flexbox are a bit tricky.
