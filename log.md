@@ -127,3 +127,9 @@
 **Today's Progress**: Completed another challenge from JS30. This time I played a bit more with flexbox using JS
 
 **Thoughts:** These shorthands from flexbox are a bit tricky.
+
+### Day 19: September 11 2018
+
+**Today's Progress**: Today I finished a simple feature in app and learned about imperative and declarative programming.
+
+**Thoughts:** I am hungry.
