@@ -133,3 +133,9 @@
 **Today's Progress**: Today I finished a simple feature in app and learned about imperative and declarative programming.
 
 **Thoughts:** I am hungry.
+
+### Day 20: September 12 2018
+
+**Today's Progress**: I just finished another challenge from JS30.
+
+**Thoughts:** Regex FTW.
