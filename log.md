@@ -139,3 +139,9 @@
 **Today's Progress**: I just finished another challenge from JS30.
 
 **Thoughts:** Regex FTW.
+
+### Day 21: September 13 2018
+
+**Today's Progress**: A bit more of work in the app, and I also learned the reason behind return components between parenthesis, that's because javascript need only one return in each function.
+
+**Thoughts:** Everything has a reason behind.
