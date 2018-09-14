@@ -145,3 +145,9 @@
 **Today's Progress**: A bit more of work in the app, and I also learned the reason behind return components between parenthesis, that's because javascript need only one return in each function.
 
 **Thoughts:** Everything has a reason behind.
+
+### Day 22: September 14 2018
+
+**Today's Progress**: I did some challenges in ES6 section from freeCodeCamp.
+
+**Thoughts:** Train, train...and train.
