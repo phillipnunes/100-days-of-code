@@ -151,3 +151,9 @@
 **Today's Progress**: I did some challenges in ES6 section from freeCodeCamp.
 
 **Thoughts:** Train, train...and train.
+
+### Day 23: September 17 2018
+
+**Today's Progress**: Finished another challenge from JS30, and learned some tricks with ES6.
+
+**Thoughts:** The cardio begins.
