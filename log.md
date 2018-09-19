@@ -157,3 +157,9 @@
 **Today's Progress**: Finished another challenge from JS30, and learned some tricks with ES6.
 
 **Thoughts:** The cardio begins.
+
+### Day 24: September 18 2018
+
+**Today's Progress**: I played with canvas and I found it very funny.
+
+**Thoughts:** Didn't know canvas was so cool.
