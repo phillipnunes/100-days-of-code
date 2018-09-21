@@ -163,3 +163,9 @@
 **Today's Progress**: I played with canvas and I found it very funny.
 
 **Thoughts:** Didn't know canvas was so cool.
+
+### Day 25: September 21 2018
+
+**Today's Progress**: I learned some tricks with Dev Tools and finished an app in React for an interview.
+
+**Thoughts:** OMG...it's hard to code when I don't sleep well.
