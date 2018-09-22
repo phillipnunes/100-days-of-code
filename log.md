@@ -169,3 +169,7 @@
 **Today's Progress**: I learned some tricks with Dev Tools and finished an app in React for an interview.
 
 **Thoughts:** OMG...it's hard to code when I don't sleep well.
+
+### Day 26: September 22 2018
+
+**Today's Progress**: Today I started to solve math problems with Javascript and also started a React Native App to learn this library.
