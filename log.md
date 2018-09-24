@@ -173,3 +173,8 @@
 ### Day 26: September 22 2018
 
 **Today's Progress**: Today I started to solve math problems with Javascript and also started a React Native App to learn this library.
+
+### Day 27: September 23 2018
+
+**Today's Progress**: Today I did another math challenge and started to play with React Native, but it is a bit complicated to configure your android environment. Anyways, it is working  :)
+
