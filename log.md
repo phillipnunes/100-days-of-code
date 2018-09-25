@@ -178,3 +178,6 @@
 
 **Today's Progress**: Today I did another math challenge and started to play with React Native, but it is a bit complicated to configure your android environment. Anyways, it is working  :)
 
+### Day 28: September 24 2018
+
+**Today's Progress**: I learned how to customize a video player with JS.
