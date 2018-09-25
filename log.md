@@ -181,3 +181,7 @@
 ### Day 28: September 24 2018
 
 **Today's Progress**: I learned how to customize a video player with JS.
+
+### Day 29: September 25 2018
+
+**Today's Progress**: Today I started to learn about Redux and how it works in practice.
