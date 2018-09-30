@@ -185,3 +185,7 @@
 ### Day 29: September 25 2018
 
 **Today's Progress**: Today I started to learn about Redux and how it works in practice.
+
+### Day 30: September 30 2018
+
+**Today's Progress**: So, after some days I am returning to the flow. Today I did another challenge from JS30.
