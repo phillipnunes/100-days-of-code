@@ -189,3 +189,7 @@
 ### Day 30: September 30 2018
 
 **Today's Progress**: So, after some days I am returning to the flow. Today I did another challenge from JS30.
+
+### Day 31: October 01 2018
+
+**Today's Progress**: And today I learned to do scroll and slide with vanilla JS.
