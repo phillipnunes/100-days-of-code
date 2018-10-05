@@ -193,3 +193,7 @@
 ### Day 31: October 01 2018
 
 **Today's Progress**: And today I learned to do scroll and slide with vanilla JS.
+
+### Day 32: October 04 2018
+
+**Today's Progress**: To fix knowledge, I am repeating some examples about how render elements and how consume APIs.
