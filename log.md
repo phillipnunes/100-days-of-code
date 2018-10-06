@@ -197,3 +197,10 @@
 ### Day 32: October 04 2018
 
 **Today's Progress**: To fix knowledge, I am repeating some examples about how render elements and how consume APIs.
+
+### Day 33: October 06 2018
+
+**Today's Progress**: Today I decided to learn Laravel, so I started with Laracasts series. They are excelent and I learned about blade template, routes, eloquent and more!
+
+**Thoughts:** Yaayy!!..Let's learn about Back-end now.
+
