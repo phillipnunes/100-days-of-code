@@ -204,3 +204,7 @@
 
 **Thoughts:** Yaayy!!..Let's learn about Back-end now.
 
+### Day 34: October 07 2018
+
+**Today's Progress**: Today I learned more about how templates work in Laravel, also some good practices and I started a project to test how Laravel fit with React.
+
