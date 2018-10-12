@@ -208,3 +208,6 @@
 
 **Today's Progress**: Today I learned more about how templates work in Laravel, also some good practices and I started a project to test how Laravel fit with React.
 
+### Day 35: October 11 2018
+
+**Today's Progress**: Today I trained more with layouts in Laravel, how to split them and call from different files and routers.
