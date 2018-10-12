@@ -211,3 +211,7 @@
 ### Day 35: October 11 2018
 
 **Today's Progress**: Today I trained more with layouts in Laravel, how to split them and call from different files and routers.
+
+### Day 36: October 12 2018
+
+**Today's Progress**: Today I learned about Form Request Data and CSRF. It is nice how Laravel have some tricks to give us more security.
