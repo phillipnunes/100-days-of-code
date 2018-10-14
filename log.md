@@ -215,3 +215,7 @@
 ### Day 36: October 12 2018
 
 **Today's Progress**: Today I learned about Form Request Data and CSRF. It is nice how Laravel have some tricks to give us more security.
+
+### Day 37: October 14 2018
+
+**Today's Progress**: Today I "played" a bit with form validation, also I learned about some useful functions to manipulate data coming from database.
