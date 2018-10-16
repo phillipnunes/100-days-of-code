@@ -219,3 +219,7 @@
 ### Day 37: October 14 2018
 
 **Today's Progress**: Today I "played" a bit with form validation, also I learned about some useful functions to manipulate data coming from database.
+
+### Day 38: October 15 2018
+
+**Today's Progress**: And today I learned a bit about relationships in Laravel and Eloquent.
