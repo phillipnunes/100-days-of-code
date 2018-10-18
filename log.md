@@ -223,3 +223,7 @@
 ### Day 38: October 15 2018
 
 **Today's Progress**: And today I learned a bit about relationships in Laravel and Eloquent.
+
+### Day 39: October 17 2018
+
+**Today's Progress**: So today I practiced a bit with React again. I discovered Surge today, and it is pretty easy to deploy apps with it.
