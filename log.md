@@ -227,3 +227,7 @@
 ### Day 39: October 17 2018
 
 **Today's Progress**: So today I practiced a bit with React again. I discovered Surge today, and it is pretty easy to deploy apps with it.
+
+### Day 40: October 18 2018
+
+**Today's Progress**: I'm amazed at how easy and quick it is to "make" an auth system with Laravel, and this is a bit of what I learned today.
