@@ -231,3 +231,7 @@
 ### Day 40: October 18 2018
 
 **Today's Progress**: I'm amazed at how easy and quick it is to "make" an auth system with Laravel, and this is a bit of what I learned today.
+
+### Day 41: October 20 2018
+
+**Today's Progress**: Today I trained more with forms, more Laravel tricks and its ease.
