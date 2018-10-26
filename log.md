@@ -235,3 +235,7 @@
 ### Day 41: October 20 2018
 
 **Today's Progress**: Today I trained more with forms, more Laravel tricks and its ease.
+
+### Day 42: October 25 2018
+
+**Today's Progress**: Today I learned about reference and copy (Obj and arrays) in JS, and also a bit about providers in Laravel.
