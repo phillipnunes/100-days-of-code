@@ -239,3 +239,7 @@
 ### Day 42: October 25 2018
 
 **Today's Progress**: Today I learned about reference and copy (Obj and arrays) in JS, and also a bit about providers in Laravel.
+
+### Day 43: November 02 2018
+
+**Today's Progress**: Today I developed a bit with React Native. Trying to get back to the routine.
