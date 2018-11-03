@@ -243,3 +243,7 @@
 ### Day 43: November 02 2018
 
 **Today's Progress**: Today I developed a bit with React Native. Trying to get back to the routine.
+
+### Day 44: November 03 2018
+
+**Today's Progress**: Learned and practiced with React Native about styles, simple search in API and some useful components like FlatList.
