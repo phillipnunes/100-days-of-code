@@ -247,3 +247,7 @@
 ### Day 44: November 03 2018
 
 **Today's Progress**: Learned and practiced with React Native about styles, simple search in API and some useful components like FlatList.
+
+### Day 45: November 04 2018
+
+**Today's Progress**: Today finished the app and I learned some tricks about how paginate in a easy way with FlatList.
