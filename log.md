@@ -251,3 +251,7 @@
 ### Day 45: November 04 2018
 
 **Today's Progress**: Today finished the app and I learned some tricks about how paginate in a easy way with FlatList.
+
+### Day 46: November 05 2018
+
+**Today's Progress**: Today I learned a bit about Testing in Laravel and some scary terms like Dependency Injection and Auto Resolution....but it is not that hard.
