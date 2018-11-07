@@ -255,3 +255,7 @@
 ### Day 46: November 05 2018
 
 **Today's Progress**: Today I learned a bit about Testing in Laravel and some scary terms like Dependency Injection and Auto Resolution....but it is not that hard.
+
+### Day 47: November 07 2018
+
+**Today's Progress**: Today I trained my ES6 with classes, array operations and other "new features".
