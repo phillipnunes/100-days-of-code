@@ -259,3 +259,7 @@
 ### Day 47: November 07 2018
 
 **Today's Progress**: Today I trained my ES6 with classes, array operations and other "new features".
+
+### Day 48: November 08 2018
+
+**Today's Progress**: Today I learned more about event delegations and trained a bit with ES6 features.
