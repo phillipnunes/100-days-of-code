@@ -263,3 +263,7 @@
 ### Day 48: November 08 2018
 
 **Today's Progress**: Today I learned more about event delegations and trained a bit with ES6 features.
+
+### Day 49: November 10 2018
+
+**Today's Progress**: Today I brushed a little more my skills with map, filter and find in JS and finished a challenge about text shadows in Javascript 30.
