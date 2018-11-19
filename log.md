@@ -267,3 +267,7 @@
 ### Day 49: November 10 2018
 
 **Today's Progress**: Today I brushed a little more my skills with map, filter and find in JS and finished a challenge about text shadows in Javascript 30.
+
+### Day 50: November 18 2018
+
+**Today's Progress**: I completed some challenges from http://exercism.io
