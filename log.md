@@ -271,3 +271,7 @@
 ### Day 50: November 18 2018
 
 **Today's Progress**: I completed some challenges from http://exercism.io
+
+### Day 51: December 02 2018
+
+**Today's Progress**: Actually I started to study some basics concepts because I realized recently that I forgot them.
