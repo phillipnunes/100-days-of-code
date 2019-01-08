@@ -275,3 +275,7 @@
 ### Day 51: December 02 2018
 
 **Today's Progress**: Actually I started to study some basics concepts because I realized recently that I forgot them.
+
+### Day 52: January 08 2019
+
+**Today's Progress**: After a long break and vacation, I returned to the challenge. I'm staying in Laravel and reviewing/learning new things.
