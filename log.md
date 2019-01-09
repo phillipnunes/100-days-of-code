@@ -279,3 +279,7 @@
 ### Day 52: January 08 2019
 
 **Today's Progress**: After a long break and vacation, I returned to the challenge. I'm staying in Laravel and reviewing/learning new things.
+
+### Day 53: January 09 2019
+
+**Today's Progress**: Today I learned some tricks about Tinker, also returned data from database and learned why CSRF protection is so important...btw, I am using Laracasts to learn.
