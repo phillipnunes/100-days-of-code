@@ -283,3 +283,7 @@
 ### Day 53: January 09 2019
 
 **Today's Progress**: Today I learned some tricks about Tinker, also returned data from database and learned why CSRF protection is so important...btw, I am using Laracasts to learn.
+
+### Day 54: January 10 2019
+
+**Today's Progress**: I learned about HTTP verbs and the importance of route conventions. Of course, Laravel has easy ways to solve these problems.
