@@ -287,3 +287,7 @@
 ### Day 54: January 10 2019
 
 **Today's Progress**: I learned about HTTP verbs and the importance of route conventions. Of course, Laravel has easy ways to solve these problems.
+
+### Day 55: January 11 2019
+
+**Today's Progress**: Today I created my first relationship with eloquent and I learned how validate data in server-side. It is getting easier with practice.
