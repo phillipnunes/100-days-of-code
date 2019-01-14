@@ -291,3 +291,7 @@
 ### Day 55: January 11 2019
 
 **Today's Progress**: Today I created my first relationship with eloquent and I learned how validate data in server-side. It is getting easier with practice.
+
+### Day 56: January 14 2019
+
+**Today's Progress**: Today I trained JS and logic in hackerrank.
