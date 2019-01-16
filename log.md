@@ -295,3 +295,7 @@
 ### Day 56: January 14 2019
 
 **Today's Progress**: Today I trained JS and logic in hackerrank.
+
+### Day 57: January 15 2019
+
+**Today's Progress**: Today I played more with forms and concepts already learned.
