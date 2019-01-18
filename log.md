@@ -299,3 +299,7 @@
 ### Day 57: January 15 2019
 
 **Today's Progress**: Today I played more with forms and concepts already learned.
+
+### Day 58: January 18 2019
+
+**Today's Progress**: The lessons today was a bit hard to me. Concepts like auto resolution, service container and service providers still a little confusing. I hope get better with practice.
