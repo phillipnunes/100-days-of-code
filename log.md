@@ -303,3 +303,7 @@
 ### Day 58: January 18 2019
 
 **Today's Progress**: The lessons today was a bit hard to me. Concepts like auto resolution, service container and service providers still a little confusing. I hope get better with practice.
+
+### Day 59: January 21 2019
+
+**Today's Progress**: Today I created all the relationships and migrations from my app, and I learned about configuration and environment.
