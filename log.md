@@ -307,3 +307,7 @@
 ### Day 59: January 21 2019
 
 **Today's Progress**: Today I created all the relationships and migrations from my app, and I learned about configuration and environment.
+
+### Day 60: January 22 2019
+
+**Today's Progress**: Today I advanced more in my app layout and I learned more about middlewares and auth.
