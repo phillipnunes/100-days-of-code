@@ -311,3 +311,7 @@
 ### Day 60: January 22 2019
 
 **Today's Progress**: Today I advanced more in my app layout and I learned more about middlewares and auth.
+
+### Day 61: January 23 2019
+
+**Today's Progress**: For today, more Laravel and more practice.
