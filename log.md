@@ -315,3 +315,7 @@
 ### Day 61: January 23 2019
 
 **Today's Progress**: For today, more Laravel and more practice.
+
+### Day 62: January 24 2019
+
+**Today's Progress**: ...and more one day practicing.
