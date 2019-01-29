@@ -323,3 +323,7 @@
 ### Day 63: January 28 2019
 
 **Today's Progress**: I watched lessons about Mailables and Readability, but unfortunately I didn't have time to code.
+
+### Day 64: January 29 2019
+
+**Today's Progress**: Today I did progress in my test app and I learned how use model events. I still struggling to discover the best way to show formatted dates in the view (brazilian format).
