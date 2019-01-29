@@ -319,3 +319,7 @@
 ### Day 62: January 24 2019
 
 **Today's Progress**: ...and more one day practicing.
+
+### Day 63: January 28 2019
+
+**Today's Progress**: I watched lessons about Mailables and Readability, but unfortunately I didn't have time to code.
