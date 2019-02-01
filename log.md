@@ -327,3 +327,7 @@
 ### Day 64: January 29 2019
 
 **Today's Progress**: Today I did progress in my test app and I learned how use model events. I still struggling to discover the best way to show formatted dates in the view (brazilian format).
+
+### Day 65: February 01 2019
+
+**Today's Progress**: I trained more, but still a bit confusing how to update tables  with relationship using eloquent. I could not implement the update method yet.
