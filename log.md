@@ -331,3 +331,7 @@
 ### Day 65: February 01 2019
 
 **Today's Progress**: I trained more, but still a bit confusing how to update tables  with relationship using eloquent. I could not implement the update method yet.
+
+### Day 66: February 04 2019
+
+**Today's Progress**: More training and more eloquent. Today I learned how to use sync to update intermediary tables.
