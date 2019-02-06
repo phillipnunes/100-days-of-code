@@ -335,3 +335,7 @@
 ### Day 66: February 04 2019
 
 **Today's Progress**: More training and more eloquent. Today I learned how to use sync to update intermediary tables.
+
+### Day 67: February 06 2019
+
+**Today's Progress**: Today I learned about model hooks, custom events and listeners. I hope understand it better and use it in some future project.
