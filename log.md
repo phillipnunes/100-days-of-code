@@ -339,3 +339,7 @@
 ### Day 67: February 06 2019
 
 **Today's Progress**: Today I learned about model hooks, custom events and listeners. I hope understand it better and use it in some future project.
+
+### Day 68: February 11 2019
+
+**Today's Progress**: Today I decided go back to train algorithms in codility, and yeah...I need to practice because I found it a bit difficult to solve the problems.
