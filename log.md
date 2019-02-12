@@ -343,3 +343,7 @@
 ### Day 68: February 11 2019
 
 **Today's Progress**: Today I decided go back to train algorithms in codility, and yeah...I need to practice because I found it a bit difficult to solve the problems.
+
+### Day 69: February 12 2019
+
+**Today's Progress**: Today I solved a couple of challenges in HackerRank using JavaScript. I found it easier than codility (...or maybe I slept more last night.)
