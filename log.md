@@ -347,3 +347,7 @@
 ### Day 69: February 12 2019
 
 **Today's Progress**: Today I solved a couple of challenges in HackerRank using JavaScript. I found it easier than codility (...or maybe I slept more last night.)
+
+### Day 70: February 13 2019
+
+**Today's Progress**: And today I solved more two challenges in HackerRank. Not the best code, you know...but I am improving.
