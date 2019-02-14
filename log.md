@@ -351,3 +351,7 @@
 ### Day 70: February 13 2019
 
 **Today's Progress**: And today I solved more two challenges in HackerRank. Not the best code, you know...but I am improving.
+
+### Day 71: February 14 2019
+
+**Today's Progress**: And today was another day HackerRanking some algorithms. There is always a cleaner way to write code.
