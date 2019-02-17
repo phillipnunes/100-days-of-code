@@ -355,3 +355,7 @@
 ### Day 71: February 14 2019
 
 **Today's Progress**: And today was another day HackerRanking some algorithms. There is always a cleaner way to write code.
+
+### Day 72: February 17 2019
+
+**Today's Progress**: Today I trained a couple of concepts with JavaScript.
