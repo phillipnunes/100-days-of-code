@@ -359,3 +359,7 @@
 ### Day 72: February 17 2019
 
 **Today's Progress**: Today I trained a couple of concepts with JavaScript.
+
+### Day 73: February 18 2019
+
+**Today's Progress**: Today I worked with React and JavaScript.
