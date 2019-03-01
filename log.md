@@ -363,3 +363,7 @@
 ### Day 73: February 18 2019
 
 **Today's Progress**: Today I worked with React and JavaScript.
+
+### Day 74: February 28 2019
+
+**Today's Progress**: Today I created some components from scratch in React. A chip, a card and a balloon which follows the mouse movement.
