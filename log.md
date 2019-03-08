@@ -367,3 +367,7 @@
 ### Day 74: February 28 2019
 
 **Today's Progress**: Today I created some components from scratch in React. A chip, a card and a balloon which follows the mouse movement.
+
+### Day 75: March 7 2019
+
+**Today's Progress**: Today I created a dropdown component in React.
