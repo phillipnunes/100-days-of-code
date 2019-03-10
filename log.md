@@ -371,3 +371,7 @@
 ### Day 75: March 7 2019
 
 **Today's Progress**: Today I created a dropdown component in React.
+
+### Day 76: March 10 2019
+
+**Today's Progress**: Today I learned about Facebook Flux architecture.
