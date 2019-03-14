@@ -375,3 +375,7 @@
 ### Day 76: March 10 2019
 
 **Today's Progress**: Today I learned about Facebook Flux architecture.
+
+### Day 77: March 14 2019
+
+**Today's Progress**: Today I started to learn Python. Math operations, variables, functions and more basic stuff.
