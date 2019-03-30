@@ -379,3 +379,7 @@
 ### Day 77: March 14 2019
 
 **Today's Progress**: Today I started to learn Python. Math operations, variables, functions and more basic stuff.
+
+### Day 78: March 30 2019
+
+**Today's Progress**: Today I learned how manipulate files with Python, and also about lists and ordenations.
