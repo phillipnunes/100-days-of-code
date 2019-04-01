@@ -383,3 +383,7 @@
 ### Day 78: March 30 2019
 
 **Today's Progress**: Today I learned how manipulate files with Python, and also about lists and ordenations.
+
+### Day 79: March 31 2019
+
+**Today's Progress**: Random numbers, exception handling and modularization in Python.
