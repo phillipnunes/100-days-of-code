@@ -387,3 +387,7 @@
 ### Day 79: March 31 2019
 
 **Today's Progress**: Random numbers, exception handling and modularization in Python.
+
+### Day 80: April 04 2019
+
+**Today's Progress**: Today I learned a bit about React Hooks and an introduction about TypeScript.
