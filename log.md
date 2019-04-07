@@ -395,3 +395,7 @@
 ### Day 81: April 06 2019
 
 **Today's Progress**: More Hooks and more TypeScript.
+
+### Day 82: April 07 2019
+
+**Today's Progress**: Today I trained more examples using useState and useEffect. Official docs are pretty good!!
