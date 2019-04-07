@@ -391,3 +391,7 @@
 ### Day 80: April 04 2019
 
 **Today's Progress**: Today I learned a bit about React Hooks and an introduction about TypeScript.
+
+### Day 81: April 06 2019
+
+**Today's Progress**: More Hooks and more TypeScript.
