@@ -399,3 +399,7 @@
 ### Day 82: April 07 2019
 
 **Today's Progress**: Today I trained more examples using useState and useEffect. Official docs are pretty good!!
+
+### Day 83: April 28 2019
+
+**Today's Progress**: Today I started to learn the basics about Progressive Web Apps.
